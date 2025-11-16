@@ -12,10 +12,10 @@ script-path = https://raw.githubusercontent.com/yourusername/sponsorblock-bilibi
 # 配置文件
 resource = config:https://raw.githubusercontent.com/yourusername/sponsorblock-bilibili-loon/main/config/default-config.json
 
-# 图标资源
-resource = icon16:https://raw.githubusercontent.com/yourusername/sponsorblock-bilibili-loon/main/icons/IconSponsorBlocker16px.png
-resource = icon32:https://raw.githubusercontent.com/yourusername/sponsorblock-bilibili-loon/main/icons/IconSponsorBlocker32px.png
-resource = icon64:https://raw.githubusercontent.com/yourusername/sponsorblock-bilibili-loon/main/icons/IconSponsorBlocker64px.png
+# 使用在线图标替代
+resource = icon16:https://raw.githubusercontent.com/ajayyy/SponsorBlock/master/icons/IconSponsorBlocker16px.png
+resource = icon32:https://raw.githubusercontent.com/ajayyy/SponsorBlock/master/icons/IconSponsorBlocker32px.png
+resource = icon64:https://raw.githubusercontent.com/ajayyy/SponsorBlock/master/icons/IconSponsorBlocker64px.png
 
 # 匹配域名
 hostname = *.bilibili.com
