@@ -4,13 +4,13 @@ desc = 自动跳过B站视频中的赞助商片段 - 基于Chrome扩展移植
 version = 0.11.2
 author = SponsorBlock Team
 modified = 2024-01-01
-repo = https://github.com/yourusername/sponsorblock-bilibili-loon
+repo = https://github.com/Cigarr/sponsorblock-bilibili-loon
 
 # 主脚本文件
-script-path = https://raw.githubusercontent.com/yourusername/sponsorblock-bilibili-loon/main/scripts/sponsorblock.js
+script-path = https://raw.githubusercontent.com/Cigarr/sponsorblock-bilibili-loon/main/scripts/sponsorblock.js
 
 # 配置文件
-resource = config:https://raw.githubusercontent.com/yourusername/sponsorblock-bilibili-loon/main/config/default-config.json
+resource = config:https://raw.githubusercontent.com/Cigarr/sponsorblock-bilibili-loon/main/config/default-config.json
 
 # Base64 图标 (红色SB图标)
 resource = icon16:data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cmVjdCB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIGZpbGw9IiNmZjQ0NDQiIHJ4PSIzIi8+PHRleHQgeD0iOCIgeT0iMTEiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZpbGw9IndoaXRlIiBmb250LXNpemU9IjEwIiBmb250LXdlaWdodD0iYm9sZCI+U0I8L3RleHQ+PC9zdmc+
