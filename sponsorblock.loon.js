@@ -1,13 +1,15 @@
-// ==Loon==
-// @Name SponsorBlock for Bilibili
-// @Desc 自动跳过B站视频中的赞助商片段
-// @Author Cigarr
-// @Version 0.11.2
-// @Date 2024-01-01
-// @Icon https://raw.githubusercontent.com/Cigarr/sponsorblock-bilibili-loon/main/icons/IconSponsorBlocker64px.png
-// @Category Bilibili
-// @UpdateInterval 86400
-// ==/Loon==
+/**
+ * @name SponsorBlock for Bilibili
+ * @desc 自动跳过B站视频中的赞助商片段
+ * @author Cigarr
+ * @version 0.11.2
+ * @date 2024-01-01
+ * @category Bilibili
+ * @updateInterval 86400
+ * @hostname *.bilibili.com
+ * @exclude *.live.bilibili.com
+ * @enabled true
+ */
 
 const CONFIG = {
     apiServer: "http://api.bsbsb.top",
