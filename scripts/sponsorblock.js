@@ -1,6 +1,6 @@
 // ==Loon==
 // @Script-Update-Interval 86400
-// @Script-Update-URL https://raw.githubusercontent.com/yourusername/sponsorblock-bilibili-loon/main/scripts/sponsorblock.js
+// @Script-Update-URL https://raw.githubusercontent.com/Cigarr/sponsorblock-bilibili-loon/main/scripts/sponsorblock.js
 // ==/Loon==
 
 const CONFIG = {
