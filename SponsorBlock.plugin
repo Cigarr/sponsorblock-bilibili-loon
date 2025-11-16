@@ -7,7 +7,7 @@ modified = 2024-01-01
 repo = https://github.com/Cigarr/sponsorblock-bilibili-loon
 
 # 主脚本文件
-script-path = https://raw.githubusercontent.com/Cigarr/sponsorblock-bilibili-loon/main/scripts/sponsorblock.js
+script-path = script-path = https://raw.githubusercontent.com/Cigarr/sponsorblock-bilibili-loon/main/scripts/simple-sponsorblock.js
 
 # 配置文件
 resource = config:https://raw.githubusercontent.com/Cigarr/sponsorblock-bilibili-loon/main/config/default-config.json
